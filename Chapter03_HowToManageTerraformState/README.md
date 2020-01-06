@@ -51,3 +51,9 @@ resource "aws_s3_bucket" "terraform_state" {
   }
 }
 ```
+
+## Force unlock
+
+Terraform: Error locking state: Error acquiring the state lock: ConditionalCheckFailedException
+
+https://github.com/CirclesUBI/infrastructure-provisioning/issues/8#issuecomment-410691868
