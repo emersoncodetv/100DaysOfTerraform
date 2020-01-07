@@ -43,7 +43,7 @@ resource "aws_db_instance" "example" {
   // Este atrubuto esta fuera del libro de terraform, es necesario para hacer el destroy.
   // Hay que leer de RDS para entender ques es lo que hace realmente.
   // https://github.com/terraform-providers/terraform-provider-aws/issues/4910#issuecomment-512765049
-  final_snapshot_identifier = "otro3"
+  final_snapshot_identifier = "otro4"
 
   password = var.db_password
 }
