@@ -9,6 +9,7 @@ Orchestration Tools
 Provisioning Tools
 The Benefits of Infrastructure as Code
 How Terraform Works
+-- Notas
 How Terraform Compares to Other IaC Tools
 Configuration Management Versus Provisioning
 Mutable Infrastructure Versus Immutable Infrastructure
