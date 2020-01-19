@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "markdown"
+    ],
+    // Set the default
+    "editor.formatOnSave": false,
+    // Enable per-language
+    "[terraform]": {
+        "editor.formatOnSave": true
+    },
+    "[markdown]": {
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true
+    }
+}

@@ -7,7 +7,7 @@ Small Modules ✅
 Composable Modules ✅
 Testable Modules ✅
 Releasable modules ✅
-Beyond Terraform Modules
+Beyond Terraform Modules ✅
 Conclusion
 
 ## Why It Takes So Long to Build Production-Grade Infrastructure
