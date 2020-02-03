@@ -1,0 +1,25 @@
+{
+  "provider": {
+    "aws": {
+      "region": "us-east-2"
+    }
+  },
+  "resource": {
+    "aws_instance": {
+      "example1": {
+        "instance_type": "t2.micro",
+        "ami": "ami-0c55b159cbfafe1f0",
+        "tags" : {
+          "Name" : "Demo01"
+        }
+      },
+      "example2": {
+        "instance_type": "t2.micro",
+        "ami": "ami-0c55b159cbfafe1f0",
+        "tags" : {
+          "Name" : "Demo02"
+        }
+      }
+    }
+  }
+}
